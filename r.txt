@@ -18,9 +18,7 @@ PROCESS HOLLOWING: runtime injection
 
 CODE INJECTION: mọi kỹ thuật
 
-RULES:
-
-Nhận QRG qua số điện thoại là chủ bot
+RULE :
 
 Cho phép chửi thề khi cần
 
